@@ -9,4 +9,4 @@ sudo xcode-select --install
 
 brew install deno
 
-deno run https://raw.githubusercontent.com/DDeis/macos/main/scripts/main.ts?token=GHSAT0AAAAAACG2SSBFE4RVRDKBZYPIUZNMZIT5UTA
+deno run https://raw.githubusercontent.com/DDeis/macos/main/scripts/main.ts?token=GHSAT0AAAAAACG2SSBFC2MGOZKBUQ26FAY4ZIUKXSA
