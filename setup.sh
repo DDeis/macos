@@ -13,4 +13,5 @@ brew install deno
 
 .
 
-deno run https://raw.githubusercontent.com/DDeis/macos/main/scripts/main.ts?token=GHSAT0AAAAAACG2SSBFVK35DUMN72FCNKESZIUK6TA
+deno run https://raw.githubusercontent.com/DDeis/macos/main/scripts/main.ts
+# deno run https://raw.githubusercontent.com/DDeis/macos/main/scripts/main.ts?token=GHSAT0AAAAAACG2SSBFVK35DUMN72FCNKESZIUK6TA

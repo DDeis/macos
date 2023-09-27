@@ -2,7 +2,7 @@ import { $, echo, chalk, spinner } from "npm:zx@7.2.3";
 import { checkbox, Separator } from "npm:@inquirer/prompts@3.1.2";
 
 function getRemoteFile(file: string) {
-  return `https://raw.githubusercontent.com/DDeis/macos/main/scripts/${file}?token=GHSAT0AAAAAACG2SSBFVK35DUMN72FCNKESZIUK6TA`
+  return `https://raw.githubusercontent.com/DDeis/macos/main/scripts/${file}`
 }
 
 const commands = await checkbox({
